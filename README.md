@@ -1,4 +1,4 @@
-# Hi there, I Ihsan Erturk 👋
+# Hi there, I'm Ihsan Erturk 👋
 ## I'm a Cloud | DevOps Engineer
 - :dancers: I’m looking to collaborate with other AWS Cloud and DevOps Engineers
 - :goal_net: 2022 Goals: Learning and traveling more
