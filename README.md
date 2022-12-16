@@ -3,12 +3,16 @@
 - :dancers: I’m looking to collaborate with other AWS Cloud and DevOps Engineers
 - :goal_net: 2022 Goals: Learning and traveling more
 - :zap: Fun fact: I love traveling, discovering, taking pictures and playing computer games.
+
 ### Connect with me:
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ihsanerturk/)
 [<img align="left" alt="MAIL" width="30px" src="./img/gmail.svg" style="padding-right:10px;" />](mailto:ihsanerturk00@gmail.com)
 [<img align="left" alt="GETIN" width="30px" src="./img/it.jpg" style="padding-right:10px;" />](https://www.get-in-it.de/profil/RutKQKzcCbdiaMxze4z6Beew1aGcFiAO))
 [<img align="left" alt="XINK" width="20px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" style="padding-right:10px;" />](https://www.xing.com/profile/MahmutEdip_Negiz2)
+
 ### Languages and Tools:
+
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
