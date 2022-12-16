@@ -28,9 +28,6 @@
 <img align="left" alt="GitHub" width="30px" src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png" style="padding-right:10px;" />
 <br>
 ---
-<details>
- 
-</details>
 
 <!---
 ihsanerturk/ihsanerturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
