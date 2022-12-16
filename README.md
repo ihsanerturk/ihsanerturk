@@ -2,7 +2,7 @@
 ## I'm a Cloud | DevOps Engineer
 - :dancers: I’m looking to collaborate with other AWS Cloud and DevOps Engineers
 - :goal_net: 2022 Goals: Learning and traveling more
-- :zap: Fun fact: I love traveling, swimming, discovering and woodworking
+- :zap: Fun fact: I love traveling, discovering, taking pictures and playing computer games.
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ihsanerturk/)
 [<img align="left" alt="MAIL" width="30px" src="./img/gmail.svg" style="padding-right:10px;" />](mailto:ihsanerturk00@gmail.com)
