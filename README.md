@@ -1,15 +1,15 @@
 # Hi there, I'm Ihsan Erturk 👋
 ## I'm a Cloud | DevOps Engineer
 - :dancers: I’m looking to collaborate with other AWS Cloud and DevOps Engineers
-- :goal_net: 2022 Goals: Learning and traveling more
+- :goal_net: 2023 Goals: Learning and traveling more
 - :zap: Fun fact: I love traveling, discovering, taking pictures and playing computer games.
 
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ihsanerturk/)
 [<img align="left" alt="MAIL" width="30px" src="./img/gmail.svg" style="padding-right:10px;" />](mailto:ihsanerturk00@gmail.com)
-[<img align="left" alt="GETIN" width="30px" src="./img/it.jpg" style="padding-right:10px;" />](https://www.get-in-it.de/profil/RutKQKzcCbdiaMxze4z6Beew1aGcFiAO))
-[<img align="left" alt="XINK" width="20px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" style="padding-right:10px;" />](https://www.xing.com/profile/MahmutEdip_Negiz2)
+[<img align="left" alt="GETIN" width="30px" src="./img/it.jpg" style="padding-right:10px;" />](https://www.get-in-it.de/profil/RutKQKzcCbdiaMxze4z6Beew1aGcFiAO)
+[<img align="left" alt="XINK" width="20px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" style="padding-right:10px;" />](https://www.xing.com/profile/Ihsan_Ertuerk2/cv)
 
 ### Languages and Tools:
 
@@ -31,7 +31,7 @@
 <img align="left" alt="GitHub" width="34px" src="https://editorconfig.org/logos/maven.png" style="padding-right:6px;" />
 <img align="left" alt="GitHub" width="30px" src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png" style="padding-right:10px;" />
 <br>
----
+
 
 <!---
 ihsanerturk/ihsanerturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
