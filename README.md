@@ -2,7 +2,7 @@
 ## I'm a Cloud | DevOps Engineer
 - :dancers: I’m looking to collaborate with other AWS Cloud and DevOps Engineers
 - :goal_net: 2023 Goals: Learning and traveling more
-- :zap: Fun fact: I love traveling, discovering, taking pictures and playing computer games.
+- :zap: Fun fact: I love traveling, discovering, taking pictures and playing Videogames.
 
 ### Connect with me:
 
