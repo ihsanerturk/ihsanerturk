@@ -34,7 +34,7 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/ihsanerturk) 
+
 
 <!---
 ihsanerturk/ihsanerturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
